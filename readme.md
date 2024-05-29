@@ -39,3 +39,8 @@
        - Tham khảo: https://www.typescriptlang.org/docs/handbook/2/functions.html#function-overloads
      - Other type: void and never:
      - Destructuring parameter
+  4. Tất tần tật về Enum trong typescript
+
+     - What: Tập hợp các giá trị cùng nhóm.
+     - Why: Dễ dàng quản lý và truy xuất.
+     - When: Sử dụng cho data một chiều, định nghĩa enum --> rồi sử dụng.
